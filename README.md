@@ -27,4 +27,21 @@
 > 使用範圍:資料強調正確性，可不使用快取
 
 
+
+
+
+## Maven dependency
+````
+<dependency>
+<groupId>io.github.h8000572003</groupId>
+<artifactId>coomon-prooptics</artifactId>
+<version>0.0.1</version>
+</dependency>
+
+````
+
+
+### 變更紀錄
+- 0.0.1 第一次上版
+
 ![img.png](img.png)
